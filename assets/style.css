@@ -1,0 +1,41 @@
+body {
+    background-image: url("images/background.jpg");
+    width: 100%;
+    height: 100%;
+}
+p {
+    display: inline-block;
+    width: 320px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 15px;
+    text-align: center;
+    height: 240px;
+    color: white;
+}
+
+.newBtn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: 5px 5px;
+    width: auto;
+    font-size: 24px;
+}
+
+.gif {
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    border-radius: 30px;
+}
+
+#searchGifs {
+    width: 30%;
+    height: 100%;
+    float: right;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
